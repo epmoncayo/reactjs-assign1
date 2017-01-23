@@ -1,0 +1,41 @@
+#header {
+    text-align: center;
+    background-color: #bbb;
+    margin: 0px;
+}
+
+#hero {
+    text-align: center;
+}
+
+#section {
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 0px;
+    margin-bottom: 10px;    
+    padding: 20px;   
+}
+
+#card {
+    display: inline-block;
+    width: 20%;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+    margin-bottom: 0px;    
+}
+
+#cards {
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 0px;
+    margin-bottom: 20px; 
+}
+
+#footer {
+    text-align: center;
+    background-color: #bbb;
+    font-size: 22px;
+    clear: both;
+}
